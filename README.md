@@ -1,4 +1,5 @@
-<h4 align="center">Hi 👋, I'm Nahid Bin Ashraf<br>Transforming Ideas into Code | Experienced .NET Developer | CMS & HRMS Solutions Advocate</h4>
+<h4 align="center">Hi 👋, I'm Nahid Bin Ashraf</h4>
+<p align="center">Transforming Ideas into Code | Experienced .NET Developer | CMS & HRMS Solutions Advocate</p>
 
 ###
 
@@ -6,7 +7,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
@@ -36,7 +37,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="nahidbinashraf@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
